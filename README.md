@@ -4,4 +4,4 @@ Points are awarded to the top ten drivers using the standard FIA system (25–18
 
 The FIA system of points awarded has been constantly modified and updated since it's first Fourmula 1 season in 1950. This system has been in use and modified to be utilizied in all FIA compeditions uncluding but not limited to Formula 2, Formula 3, Karting World Championship, World Endurance Championship, World Rally Championship, and Formula E.
 
-The goal of this workbook is to examin and analysis the existing and past FIA system of points in Formula E and to compare other FIA championships throughout history.
+The goal of this workbook is to examin and analysis the existing and past FIA system of points in Formula E over the then (10) full seasons and to compare other FIA championships throughout history.
