@@ -6,3 +6,11 @@ The FIA system of points awarded has been constantly modified and updated since 
 
 The goal of this workbook is to examine and analysis the existing and past FIA system of points in Formula E over the then (10) full seasons and to compare other FIA championships throughout history.
 
+## Data:
+
+Sites used:
+https://www.kaggle.com/datasets/brunopham/formula-e-championship/data
+
+The rest of the results from the 2023-204 season were taken from:
+https://results.fiaformulae.com/
+ 
